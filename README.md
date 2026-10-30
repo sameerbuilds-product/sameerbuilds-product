@@ -9,13 +9,14 @@ I'm a program management and business operations professional interested in solv
 **Experimentation:** A/B testing, conversion analysis, and performance optimization
 
 **⚡Featured Projects**
+
 · Quick Commerce Operations Analytics — delivery performance and operational bottlenecks
 · Customer Churn & Retention — customer cohorts and retention opportunities
 · Campaign ROI & Experimentation — campaign economics and experimentation
 · Automated KPI Reporting — repeatable reporting workflows
 · Program Execution Tracker — milestones, dependencies, and risk management
 
-**Tools**
+**Tools:**
 SQL · Python · Excel · Google Sheets · AWS QuickSight · Tableau · BigQuery · PostgreSQL
 
 Portfolio projects use synthetic data for demonstration purposes.
